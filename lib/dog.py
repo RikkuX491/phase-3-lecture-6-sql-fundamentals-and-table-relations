@@ -1,5 +1,5 @@
 import ipdb
 from animal import *
 
-class Dog(Animal):
+class Dog:
     pass
