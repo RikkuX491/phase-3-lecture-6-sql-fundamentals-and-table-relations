@@ -5,7 +5,7 @@ from os import path
 import runpy
 import io
 import sys
-from animal import *
+from classes.review import *
 
-class TestAnimalPy:
-    '''animal.py'''
+class TestReviewPy:
+    '''review.py'''

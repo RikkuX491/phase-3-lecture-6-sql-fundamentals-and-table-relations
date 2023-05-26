@@ -1,15 +1,14 @@
-# Phase 3, Lecture 4: OOP Part 2: Class Methods & Class Variables
+# Phase 3, Lecture 5: Object Relations in Python
 
 ## Lecture Topics
 
-- Class variables
-- Class methods
-- Object inheritance
-- Super
+- Object Relations in Python
+- One-to-many
+- Many-to-many
 
 ## Introduction
 
-In today's lecture, we will discuss more topics of Object Oriented Programming in Python such as class variables, class methods, object inheritance, and super.
+In today's lecture, we will discuss about Object Relations in Python. We will discuss relationships of tables in a relational database and will use Python classes as representations of tables from a relational database.
 
 ## Setup
 
