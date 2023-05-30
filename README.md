@@ -1,18 +1,12 @@
-# Phase 3, Lecture 5: Object Relations in Python
+# Phase 3, Lecture 6: SQL Fundamentals & Table Relations
 
 ## Lecture Topics
 
-- Object Relations in Python
-- One-to-many
-- Many-to-many
+- SQL
+- Primary Keys
+- Foreign Keys
+- Join table
 
 ## Introduction
 
-In today's lecture, we will discuss about Object Relations in Python. We will discuss relationships of tables in a relational database and will use Python classes as representations of tables from a relational database.
-
-## Setup
-
-1. Make sure that your current working directory (folder) contains a `Pipfile`, then run `pipenv install` in your terminal to install `pytest` and any other required libraries.
-2. Now that your `pipenv` virtual environment is ready to use, enter `pipenv shell` to start working.
-
-Please note that there are no tests to run in this lecture repository.
+In today's lecture, we will discuss the SQL Fundamentals & Table Relations between tables in a relational database that we will build and interact with using SQL code.
